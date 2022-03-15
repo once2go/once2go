@@ -1,6 +1,9 @@
 # Hi there 👋
-## 💬 My telegram @once2go
- 
+
+## 🧑🏻‍💻 Low level stacks coverage: hardware, firmware, userspace services, kernel drivers, end-user apps/services integration.
+## 📱 Mobile, embedded and IOT 
+## 🤝  Consultations are available upon request
+## 💬 My twitter & telegram @once2go
 <!-- **once2go/once2go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:  
